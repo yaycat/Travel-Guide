@@ -57,6 +57,10 @@ Yandex Maps API:
 Project structure:
 project-folder/
 ├── public/              # Folder for static assets (CSS, images, etc.)
+
 ├── app.js               # Main application file
+
 ├── package.json         # Dependencies and project metadata
+
 └── README.md            # Project documentation
+
